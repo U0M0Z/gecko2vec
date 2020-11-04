@@ -1,0 +1,10 @@
+# Mac specific folders
+*.DS_Store
+
+# GECKO input files: SMILES lists and mechanisms
+#dictionaries/
+#mechanisms/
+
+# Converted SMILES
+*.csv
+*.smi
