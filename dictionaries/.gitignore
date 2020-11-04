@@ -1,0 +1,6 @@
+# Ignore the * files
+*
+
+# But not these files
+!.gitignore
+!iso_nonox.dict
